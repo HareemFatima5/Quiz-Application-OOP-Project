@@ -30,7 +30,7 @@ The application is structured around crucial modules: Student and Admin authenti
 
 
 ## Credits
--The other contributors are Fizza Kashif (https://github.com/fizza49) and Misbah Shaheen (https://github.com/Misbah-shaheen)
+-The other contributors are [Fizza Kashif] (https://github.com/fizza49) and [Misbah Shaheen] (https://github.com/Misbah-shaheen)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
